@@ -2,7 +2,7 @@
   max-width: 52.5rem;
   width: 100%;
 
-  margin: 0 auto;
+  margin: 0 0 0 24px;
 }
 
 header {
@@ -27,7 +27,7 @@ main {
   .movies-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 4.75rem;
+    grid-gap: 2.75rem;
     list-style: none;
   }
 }
